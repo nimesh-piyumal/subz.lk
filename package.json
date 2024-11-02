@@ -1,6 +1,6 @@
 {
   "name": "subz.lk",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Movies Sinhala Subtitle Download Scraper",
   "main": "app.js",
   "scripts": {
@@ -17,5 +17,13 @@
   "dependencies": {
     "nexara": "^1.0.0",
     "node-fetch": "^2.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimesh-piyumal/subz.lk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nimesh-piyumal/subz.lk/issues"
+  },
+  "homepage": "https://github.com/nimesh-piyumal/subz.lk#readme"
 }
