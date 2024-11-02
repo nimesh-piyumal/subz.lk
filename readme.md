@@ -9,7 +9,7 @@
 const { getSubz } = require("subz.lk");
 
 async function example() {
-    const subz = await getSubz("https://subz.lk/caddo-lake-2024-sinhala-subtitle/");
+    const subz = await getSubz("master 2021");
     console.log(subz);    
 }
 example()

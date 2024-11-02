@@ -1,6 +1,6 @@
 {
   "name": "subz.lk",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Movies Sinhala Subtitle Download Scraper",
   "main": "app.js",
   "scripts": {
