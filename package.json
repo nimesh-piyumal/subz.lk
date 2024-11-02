@@ -1,0 +1,21 @@
+{
+  "name": "subz.lk",
+  "version": "1.0.0",
+  "description": "Movies Sinhala Subtitle Download Scraper",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "scraper",
+    "subz.lk",
+    "sinhala",
+    "movie"
+  ],
+  "author": "Nimesh Piyumal",
+  "license": "MIT",
+  "dependencies": {
+    "nexara": "^1.0.0",
+    "node-fetch": "^2.6.11"
+  }
+}
